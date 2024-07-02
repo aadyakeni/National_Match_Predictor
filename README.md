@@ -1,2 +1,2 @@
-# national_football_predictor
+# National_FootballMatch_Predictor
  The project predicts football match outcomes and expected goals using machine learning models and historical match data.
